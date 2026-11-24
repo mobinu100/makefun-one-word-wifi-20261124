@@ -1,0 +1,7 @@
+{
+  "name": "makefun-one-word-wifi-20261124",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "main.ts"
+}
